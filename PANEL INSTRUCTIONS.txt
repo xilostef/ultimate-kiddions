@@ -1,0 +1,5 @@
+tutorial:
+
+1. Right click on Panel.py click on open with and click on notepad
+2. Change the path!
+3. Make sure its back slashes (\\). Not: //
