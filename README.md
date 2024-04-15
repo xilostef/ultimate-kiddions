@@ -9,3 +9,7 @@ Tutorial:
 4. Go in "settings", from there click on "reload scripts", then you can go in the script tab for extra features
 5. Stay updated for newer versions to not get ban from Online
 6. Enjoy!
+
+Note:
+  Try our Panel!
+  To do so: Read our "PANEL INSTRUCTION.txt" file.
